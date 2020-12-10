@@ -1,7 +1,21 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi ... my name is Wu,Pei-Yu & I'm a Data Scientist based in TW!
+
+> It is so amazing to make machine learning ...
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fts01174755&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 📋 Activities 
+
+- Data Scientist Project: Around forecasting...
+
+1. claim-repurchase model.
+2. High-value users.
+3. Potential insurance demand of family members ssociated network by insurance benefit).
+
+- ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) Android development - Mobile check-ins system.
+
+### 🌱 I’m currently learning ...
+- Natural Language Processing
+- Computer vision 
 
 
 ## Technologies and Tools
@@ -36,7 +50,7 @@
   </a>
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fts01174755.medium.com&count_bg=%2379C83D&title_bg=%23555555&icon=medium.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fts01174755.medium.com&count_bg=%2379C83D&title_bg=%23555555&icon=medium.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fts01174755&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 
