@@ -1,7 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi ... my name is Wu,Pei-Yu & I'm a Data Scientist based in TW!
 
 > It is so amazing to make machine learning ...
----
 
 ### 📋 Activities 
 
