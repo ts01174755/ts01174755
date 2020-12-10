@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi ... my name is Wu,Pei-Yu & I'm a Data Scientist based in TW!
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi ... my name is Wu,Pei-Yu & I'm a Data Scientist based in TW!
 
 > It is so amazing to make machine learning ...
 ---
@@ -18,12 +18,12 @@
 - Computer vision 
 
 
-## Technologies and Tools
+### Technologies and Tools
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 
-### :trophy: Honors 
+## :trophy: Honors 
 
 **[《2019 autumn E.Sun Bank AI open competition- credit card fraud detection》](https://github.com/CubatLin/TBrain-E.SUN-AI-Open-Competition-Fall-2019-15th-place-Feature-Engineering)**
 
