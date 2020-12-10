@@ -7,9 +7,9 @@
 
 - Data Scientist Project: Around forecasting...
 
-1. claim-repurchase model.
+1. Claim-repurchase model.
 2. High-value users.
-3. Potential insurance demand of family members ssociated network by insurance benefit).
+3. Potential insurance demand of family members (Through Asociated network  insurance benefit).
 
 - ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) Android development - Mobile check-ins system.
 
