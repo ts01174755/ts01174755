@@ -12,7 +12,7 @@
 
 - ML-Package: RIPPER-based logical reasoning model
 
-- ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) Android development - Mobile check-ins system.
+- Android development ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) - Mobile check-ins system.
 
 ### 🌱 I’m currently learning ...
 - Natural Language Processing
@@ -22,7 +22,7 @@
 
 **[《2019 autumn E.Sun Bank AI open competition- credit card fraud detection》](https://github.com/CubatLin/TBrain-E.SUN-AI-Open-Competition-Fall-2019-15th-place-Feature-Engineering)**
 
-- 🥈 2nd of final selected 20 teams in business solutions competition.   
+- 2nd of final selected 20 teams in business solutions competition.   
 - Top 1%(15/1366) in F1 score predict competition.
 
 **《2020 Shopee Code League- series of Kaggle competition in Asia-Pacific(open category)》**
