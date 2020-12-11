@@ -10,7 +10,7 @@
 2. High-value users.
 3. Potential insurance demand of family members (Through Asociated network  insurance benefit).
 
-- ML-Package: RIPPER-based logical interpretation model
+- ML-Package: RIPPER-based logical reasoning model
 
 - ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) Android development - Mobile check-ins system.
 
