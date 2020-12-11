@@ -12,7 +12,7 @@
 
 - ML-Package: RIPPER-based logical reasoning model
 
-- Android development ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) - Mobile check-ins system.
+- Android development - ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) Mobile check-ins system.
 
 ### 🌱 I’m currently learning ...
 - Natural Language Processing
