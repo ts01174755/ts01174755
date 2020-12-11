@@ -35,7 +35,7 @@
 
 ---
 
-### 🔍 How to reach me 🔗:
+### 🔍 How to reach me 🔗
 
 <p >
 <a href="https://ts01174755.medium.com/" target="blank">
