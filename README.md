@@ -10,7 +10,8 @@
 2. High-value users.
 3. Through insurance benefit asociated network define "Family" (Graph algorithm).
 4. Potential insurance demand of family members.
-5. ML-Model: RIPPER-based logical reasoning model
+
+- ML-Model: RIPPER-based logical reasoning model
 
 - Android development - ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) Mobile check-ins system.
 
