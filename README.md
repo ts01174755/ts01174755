@@ -4,13 +4,13 @@
 
 ### 📋 Activities 
 
-- Data Scientist Project: Around forecasting...
+- Data Scientist Project: 
 
 1. Claim-repurchase model.
 2. High-value users.
-3. Potential insurance demand of family members (Through Asociated network  insurance benefit).
-
-- ML-Model: RIPPER-based logical reasoning model
+3. Through insurance benefit asociated network define "Family" (Graph algorithm).
+4. Potential insurance demand of family members.
+5. ML-Model: RIPPER-based logical reasoning model
 
 - Android development - ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) Mobile check-ins system.
 
