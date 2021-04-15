@@ -36,7 +36,7 @@
 
 - 5th in User Spending Prediction.
 
-**[《Shopee Code League - Address Elements Extraction》]**
+**《Shopee Code League - Address Elements Extraction》**
 
 - Top 11% in Leaderboard.
 
