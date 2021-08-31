@@ -4,6 +4,12 @@
 
 ### 📋 Activities 
 
+- Data Scientist: With 4+ years experience in data science in financial industry.
+- Data Engineer & Sever Administrator: 
+  - With 2 years experience in "data Engineer" & "Sever Administrator" in Online Learning Platform. 
+  - During the epidemic, Building a database of students with "online learning needs" were accurately identified through NLP and crawling methods.
+
+
 - Data Scientist Project: 
 
 1. Claim-repurchase model.
