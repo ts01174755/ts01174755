@@ -5,7 +5,7 @@
 ### 📋 Activities 
 
 - Data Scientist: With 4+ years experience in data science in financial industry.
-  -  Forecasting task(Claim-repurchase model).
+  -  Claim-repurchase model(Forecasting task).
   -  High-value users(Feature Engineering, cluster & classification).
   -  Defining Family through "insurance benefit asociated network" (Graph/DFS).
 - Data Engineer & Server Administrator: 
