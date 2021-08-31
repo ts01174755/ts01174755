@@ -5,25 +5,14 @@
 ### 📋 Activities 
 
 - Data Scientist: With 4+ years experience in data science in financial industry.
-- Data Engineer & Sever Administrator: 
-  - With 2 years experience in "data Engineer" & "Sever Administrator" in Online Learning Platform. 
+  -  Claim-repurchase model.
+  -  High-value users.
+  -  Through insurance benefit asociated network define "Family" (Graph algorithm).
+  -  Potential insurance demand of family members.
+- Data Engineer & Server Administrator: 
+  - With 2 years experience in "data Engineer" & "Server Administrator" in Online Learning Platform.
   - During the epidemic, Building a database of students with "online learning needs" were accurately identified through NLP and crawling methods.
-
-
-- Data Scientist Project: 
-
-1. Claim-repurchase model.
-2. High-value users.
-3. Through insurance benefit asociated network define "Family" (Graph algorithm).
-4. Potential insurance demand of family members.
-
-- ML-Model: RIPPER-based logical reasoning model
-
-- Android development - ![](https://img.shields.io/badge/--informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) Mobile check-ins system.
-
-### 🌱 I’m currently learning ...
-- Natural Language Processing
-- Computer vision 
+- Lecture speaker of 'How can data science be used in Insurtech?' in [NTOU](https://www.ntou.edu.tw).
 
 ## :trophy: Honors 
 
@@ -42,9 +31,7 @@
 
 - 5th in User Spending Prediction.
 
-**《Shopee Code League - Address Elements Extraction》**
 
-- Top 11% in Leaderboard.
 
 ---
 
@@ -69,6 +56,10 @@
 [![ts01174755's github stats](https://github-readme-stats.vercel.app/api?username=ts01174755)](https://github.com/ts01174755/github-readme-stats)
 
 **ts01174755/ts01174755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**《Shopee Code League - Address Elements Extraction》**
+
+- Top 10% in Leaderboard.
 
 Here are some ideas to get you started:
 
