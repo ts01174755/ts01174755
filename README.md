@@ -5,10 +5,9 @@
 ### 📋 Activities 
 
 - Data Scientist: With 4+ years experience in data science in financial industry.
-  -  Claim-repurchase model.
-  -  High-value users.
-  -  Through insurance benefit asociated network define "Family" (Graph algorithm).
-  -  Potential insurance demand of family members.
+  -  Forecasting task(Claim-repurchase model).
+  -  High-value users(Feature Engineering, cluster & classification).
+  -  Defining Family through "insurance benefit asociated network" (Graph/DFS).
 - Data Engineer & Server Administrator: 
   - With 2 years experience in "data Engineer" & "Server Administrator" in Online Learning Platform.
   - During the epidemic, Building a database of students with "online learning needs" were accurately identified through NLP and crawling methods.
