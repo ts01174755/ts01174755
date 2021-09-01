@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi ... my name is Wu,Pei-Yu & I'm a Data Scientist based in TW!
 
-> Let machine learning is really amazing!
+> Always recognize that "machince learning" are ends, and do not use them as means to your end.     ...by Kant???????
 
 ### 📋 Activities 
 
