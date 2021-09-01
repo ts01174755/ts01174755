@@ -10,7 +10,7 @@
   -  Defining Family through "insurance benefit asociated network" (Graph/DFS).
 - Data Engineer & Server Administrator: 
   - With 2 years experience in "data Engineer" & "Server Administrator" on Online Learning Platform.
-  - During the epidemic, Building a database of students with "online learning needs" were accurately identified through NLP and crawling methods.
+  - During the epidemic, building a database of students with "online learning needs" were accurately identified through NLP and crawling methods.
 - Lecture speaker of 'How can data science be used in Insurtech?' in [NTOU](https://www.ntou.edu.tw).
 
 ## :trophy: Honors 
