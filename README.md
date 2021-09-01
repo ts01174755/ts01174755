@@ -1,6 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi ... my name is Wu,Pei-Yu & I'm a Data Scientist based in TW!
 
-> Always recognize that "machine learning" is a means to your end, not an end in itself.
+> Kant:
+>> Always recognize that "machine learning" is a means to your end, not an end in itself.
 
 ### 📋 Activities 
 
