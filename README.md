@@ -31,7 +31,7 @@
 - 5th in User Spending Prediction.
 
 **[《2021 Shopee Code League - Address Elements Extraction》](https://www.kaggle.com/c/scl-2021-ds/leaderboard)**
-- Top 10% in Leaderboard.
+- Top 10% in Leaderboard.(101/1034)
 
 
 ---
@@ -59,10 +59,6 @@
 [![ts01174755's github stats](https://github-readme-stats.vercel.app/api?username=ts01174755)](https://github.com/ts01174755/github-readme-stats)
 
 **ts01174755/ts01174755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-**《Shopee Code League - Address Elements Extraction》**
-
-- Top 10% in Leaderboard.
 
 Android development -  Mobile check-ins system.
 
