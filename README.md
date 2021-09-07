@@ -8,7 +8,7 @@
   -  Claim-repurchase model(Forecasting task).
   -  High-value users(Feature Engineering, cluster & classification).
   -  Defining Family through "insurance benefit asociated network" (Graph/DFS).
-- Side project : "Online Learning Platform" (During the epidemic)
+- Side project : "Online Learning Platform" (During epidemic)
   - "ETL Engineer" & "Data Engineer": Building data warehouses of students, teachers, recruitments ...etc.
   - "Data Scientist": Building NLP Model accurately identify "Online Learning" needs.
 - Lecture speaker of 'How can data science be used in Insurtech?' in [NTOU](https://www.ntou.edu.tw).
