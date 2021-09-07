@@ -30,6 +30,8 @@
 
 - 5th in User Spending Prediction.
 
+**[《2021 Shopee Code League - Address Elements Extraction》](https://www.kaggle.com/c/scl-2021-ds/leaderboard)**
+- Top 10% in Leaderboard.
 
 
 ---
