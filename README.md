@@ -8,9 +8,9 @@
   -  Claim-repurchase model(Forecasting task).
   -  High-value users(Feature Engineering, cluster & classification).
   -  Defining Family through "insurance benefit asociated network" (Graph/DFS).
-- Data Engineer & Server Administrator: 
-  - With 2 years experience in "data Engineer" & "Server Administrator" on Online Learning Platform.
-  - During the epidemic, building a database of students with "online learning needs" were accurately identified through NLP and crawling methods.
+- Side project : "Online Learning Platform" (During the epidemic)
+  - "ETL Engineer" & "Data Engineer": Building data warehouses of students, teachers, recruitments ...etc.
+  - "Data Scientist": Building NLP Model accurately identify "Online Learning" needs.
 - Lecture speaker of 'How can data science be used in Insurtech?' in [NTOU](https://www.ntou.edu.tw).
 
 ## :trophy: Honors 
